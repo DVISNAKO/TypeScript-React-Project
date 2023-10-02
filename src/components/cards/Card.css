@@ -1,0 +1,40 @@
+.body{
+    background-color: rgb(226, 226, 238);
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.wrapper{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ;}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: 1px solid pink;
+    margin: 5px;
+    padding: 5px;
+}
+
+.blue{
+    background: blue;
+}
+
+.red{
+    background: red;
+}
+
+.text {
+    font-size: 30px;
+}
